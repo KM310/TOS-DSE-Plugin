@@ -1,0 +1,16 @@
+name: TOSPlugin
+version: 1.0
+
+main: Main
+api-version: '1.21.11'
+load: POSTWORLD
+
+commands:
+  showTOS:
+    description: Zeigt die TOS an
+  showDSE:
+    description: Zeigt die DSE an
+  acceptTOS:
+    description: Akzeptiert die TOS
+  acceptDSE:
+    description: Akzeptiert die DSE
