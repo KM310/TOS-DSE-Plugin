@@ -29,6 +29,7 @@ then released to the public repository after testing.
 ## Notes
 This plugin is designed for German Minecraft communities that value transparency and compliance.  
 It integrates seamlessly with existing server setups and supports multilingual text files.
+Also you need to change the impressum of dse.txt to match your information and you need to make your own Terms of Service (tos.txt)
 
 ---
 
