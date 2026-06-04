@@ -1,5 +1,13 @@
 Datenschutzerklärung für Minecraft-Server (DSGVO)
 
+1. Impressum
+
+Name:Vorname, Nachname
+Adresse:WasserStrasse 33, Wasserstadt,PLZ12345,Wasserland
+Kontaktdate1:DeineEmail@email.de
+Konatkdate2:+49 123456789
+
+
 2. Arten der verarbeiteten Daten
 Beim Verbinden mit unserem Minecraft-Server werden automatisch folgende Daten verarbeitet:
 - IP-Adresse
