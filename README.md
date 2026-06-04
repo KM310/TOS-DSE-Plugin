@@ -1,12 +1,39 @@
-# TOS-DSE-Plugin
-Plugin for German Servers that need the Datenschutzerklärung
+# TOS-DSE Plugin
 
-This plugin is actively used on PrestigePvP.
+A Minecraft Paper plugin for German servers that require a Datenschutzerklärung (Privacy Policy) and Terms of Service (TOS) compliance.
 
-New features and updates are first deployed to PrestigePvP,
-and later released to the public repository.
+---
 
-The code will be released under GPLv3.
+## Overview
+This plugin helps server owners comply with German data protection laws (DSGVO) by providing:
+- In-game display of Terms of Service and Privacy Policy
+- Easy configuration for server-specific legal text
+- Automatic prompts for new players to accept the rules
 
-All branding (logo, name) is All Rights Reserved.
-PrestigePvP is granted permission to use the branding in production.
+---
+
+## Deployment
+The plugin is actively used on **PrestigePvP**.  
+New features and updates are first deployed to **PrestigePvP**,  
+then released to the public repository after testing.
+
+---
+
+## Licensing
+- Source code: **GPLv3**
+- Branding (logo, name): **All Rights Reserved**
+- **PrestigePvP** and **Nerix.net** are granted permission to use the branding in production.
+
+---
+
+## Notes
+This plugin is designed for German Minecraft communities that value transparency and compliance.  
+It integrates seamlessly with existing server setups and supports multilingual text files.
+
+---
+
+## Related Topics
+- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html)
+- [DSGVO Law](https://dsgvo-gesetz.de/)
+- [Minecraft Plugin Development](https://www.spigotmc.org/wiki/spigot-plugin-development/)
+- [PrestigePvP ServerIP](prestigepvp.playmc.be)
