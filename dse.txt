@@ -1,0 +1,80 @@
+Datenschutzerklärung für Minecraft-Server (DSGVO)
+
+2. Arten der verarbeiteten Daten
+Beim Verbinden mit unserem Minecraft-Server werden automatisch folgende Daten verarbeitet:
+- IP-Adresse
+- Minecraft-Benutzername
+- UUID
+- Zeitpunkt des Verbindungsaufbaus
+- Server- und Client-Version
+- Join/Leave-Events
+- Chat-Nachrichten (falls Logging aktiviert)
+- Fehler- und Crash-Reports
+- Mod-/Plugin-Daten (falls erforderlich)
+
+3. Zweck der Verarbeitung
+Die Daten werden verarbeitet, um:
+- den Minecraft-Server bereitzustellen,
+- eine stabile Verbindung zu ermöglichen,
+- Missbrauch, Cheating, Exploits und DDoS-Angriffe zu verhindern,
+- Fehler zu analysieren,
+- Serverlogs zu führen,
+- Regelverstöße zu dokumentieren,
+- Statistiken über Spieleraktivität zu erstellen (anonymisiert).
+
+4. Rechtsgrundlage
+Die Verarbeitung erfolgt gemäß:
+- Art. 6 Abs. 1 lit. b DSGVO – Vertragserfüllung (Bereitstellung des Servers)
+- Art. 6 Abs. 1 lit. f DSGVO – berechtigtes Interesse (Sicherheit, Stabilität, Missbrauchserkennung)
+
+5. Speicherung der Daten
+- IP-Adressen werden in Serverlogs 7–14 Tage gespeichert.
+- Bei sicherheitsrelevanten Vorfällen können IP-Adressen bis zur Klärung gespeichert bleiben.
+- Chat-Logs (falls aktiviert) werden max. 30 Tage gespeichert.
+- Statistische Daten werden anonymisiert gespeichert.
+
+6. Weitergabe an Dritte
+Eine Weitergabe erfolgt nur, wenn:
+- Hosting-Provider beteiligt sind (z. B. Hetzner, ZAP-Hosting, Nitrado),
+- Anti-Cheat-Systeme Daten benötigen (z. B. Vulcan, Matrix, Grim),
+- rechtliche Verpflichtungen bestehen (z. B. Strafverfolgung).
+Eine sonstige Weitergabe findet nicht statt.
+
+7. Einsatz von Plugins, Mods und Anti-Cheats
+Unser Server kann Plugins, Mods oder Anti-Cheat-Systeme verwenden, die zusätzliche Daten verarbeiten, z. B.:
+- Bewegungsdaten
+- Interaktionsdaten
+- Inventar-Daten
+- Ping / Latenz
+- Client-Modifikationen (nur falls technisch notwendig)
+Diese Systeme dienen ausschließlich der Serverfunktion, Fairness und Sicherheit.
+
+8. Cookies / Website / Web-Map
+Falls Dynmap, BlueMap oder eine Web-Map genutzt wird:
+- Es können Cookies gesetzt werden (z. B. Session-Cookies).
+- Die IP-Adresse wird beim Aufruf der Web-Map verarbeitet.
+
+9. Rechte der betroffenen Personen
+Spieler haben folgende Rechte:
+- Auskunft über gespeicherte Daten
+- Löschung (sofern keine Sicherheitsgründe entgegenstehen)
+- Berichtigung
+- Einschränkung der Verarbeitung
+- Beschwerde bei einer Datenschutzbehörde
+
+10. Widerspruchsrecht
+Da die Verarbeitung technisch notwendig ist, besteht kein Widerspruchsrecht gegen die kurzfristige Speicherung der IP-Adresse.
+
+11. Löschung von Daten
+Daten werden gelöscht, sobald:
+- sie für den Zweck nicht mehr erforderlich sind,
+- gesetzliche Aufbewahrungsfristen abgelaufen sind,
+- keine Sicherheitsrelevanz mehr besteht.
+
+12. Sicherheit
+Wir setzen technische und organisatorische Maßnahmen ein, um Daten vor:
+- unbefugtem Zugriff,
+- Manipulation,
+- Verlust,
+- Missbrauch
+zu schützen.
