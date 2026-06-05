@@ -1,2 +1,5 @@
 *.sh linguist-detectable=true
 *.sh linguist-language=Shell
+*.nix linguist-detectable=true
+*.nix linguist-language=Nix
+
