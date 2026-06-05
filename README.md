@@ -13,11 +13,10 @@ This plugin helps server owners comply with German data protection laws (DSGVO) 
 ---
 
 ## Deployment
-Nerix.net has also has early acess
+**Nerix.net** has also has Early Acess
 The plugin is actively used on **PrestigePvP**.  
 New features and updates are first deployed to **PrestigePvP**,  
 then released to the public repository after testing.
-Nerix.net has also has early acess 
 
 ---
 
