@@ -14,3 +14,7 @@ commands:
     description: Akzeptiert die TOS
   acceptDSE:
     description: Akzeptiert die DSE
+  declineTOS:
+    description: Lehnt die TOS ab
+  declineDSE:
+    description: Lehnt die DSE ab
