@@ -23,7 +23,7 @@ then released to the public repository after testing.
 ## Licensing
 - Source code: **GPLv3**
 - Branding (logo, name): **All Rights Reserved**
-- **PrestigePvP** and **Nerix.net** are granted permission to use the branding in production.
+- **PrestigePvP** and **** are granted permission to use the branding in production.
 
 ---
 
