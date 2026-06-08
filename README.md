@@ -21,7 +21,7 @@ then released to the public repository after testing.
 ---
 
 ## Licensing
-- Source code: **GPLv3**
+- Source code: **MIT**
 - Branding (logo, name): **All Rights Reserved**
 - **PrestigePvP** and **Bytesmp.de** are granted permission to use the branding in production.
 
@@ -35,7 +35,7 @@ Also you need to change the impressum of dse.txt to match your information and y
 ---
 
 ## Related Topics
-- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html)
+- [MIT License](https://mit-license.org/)
 - [DSGVO Law](https://dsgvo-gesetz.de/)
 - [Minecraft Plugin Development](https://www.spigotmc.org/wiki/spigot-plugin-development/)
 - [PrestigePvP ServerIP](prestigepvp.playmc.be)
