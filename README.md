@@ -13,7 +13,6 @@ This plugin helps server owners comply with German data protection laws (DSGVO) 
 ---
 
 ## Deployment
-**Nerix.net** has also has Early Acess
 The plugin is actively used on **PrestigePvP**.  
 New features and updates are first deployed to **PrestigePvP**,  
 then released to the public repository after testing.
@@ -21,7 +20,7 @@ then released to the public repository after testing.
 ---
 
 ## Licensing
-- Source code: **MIT**
+- Source code: **Apache 2.0**
 - Branding (logo, name): **All Rights Reserved**
 - **PrestigePvP** and **Bytesmp.de** are granted permission to use the branding in production.
 
@@ -35,7 +34,6 @@ Also you need to change the impressum of dse.txt to match your information and y
 ---
 
 ## Related Topics
-- [MIT License](https://mit-license.org/)
 - [DSGVO Law](https://dsgvo-gesetz.de/)
 - [Minecraft Plugin Development](https://www.spigotmc.org/wiki/spigot-plugin-development/)
 - [PrestigePvP ServerIP](prestigepvp.playmc.be)
