@@ -5,6 +5,7 @@ version: '${version}'
 main: de.julius.tosdse.Tosdse
 api-version: '1.21.11'
 load: STARTUP
+folia-supported: true
 
 authors: [ K_M04 ]
 
