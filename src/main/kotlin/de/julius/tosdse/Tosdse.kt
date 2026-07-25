@@ -1,4 +1,4 @@
-//Copyright 2026 K_M04 Licensed Under Apache 2.0
+//Copyright 2026 K_M04 Licensed Under MIT
 
 package de.julius.tosdse
 
