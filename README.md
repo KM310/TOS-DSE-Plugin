@@ -20,16 +20,15 @@ then released to the public repository after testing.
 ---
 
 ## Licensing
-- Source code: **Apache 2.0**
+- Source code: **MIT**
 - Branding (logo, name): **All Rights Reserved**
-- **PrestigePvP** and **Bytesmp.de** are granted permission to use the branding in production.
+- **PrestigePvP** is granted permission to use the branding in production.
 
 ---
 
 ## Notes
 This plugin is designed for German Minecraft communities that value transparency and compliance.  
 It integrates seamlessly with existing server setups and supports multilingual text files.
-Also you need to change the impressum of dse.txt to match your information and you need to make your own Terms of Service (tos.txt)
 
 ---
 
